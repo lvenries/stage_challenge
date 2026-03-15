@@ -1,0 +1,12 @@
+############################################################################################
+ ________________________________
+🐮🐮🐮 Continue comme ça petit hacker ! 🐮🐮🐮
+ --------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+Sauf erreur de ma part, on a pas encore édité un fichier pas vrai? Alors en avant!!! 
+Trouve comment modifier le fichier script_a_modifier qui se trouve dans ton /home 
+############################################################################################

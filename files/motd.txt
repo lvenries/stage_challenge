@@ -1,0 +1,7 @@
+##################################################################################################################################################
+SSH (Secure Shell) est un protocole réseau qui permet de se connecter et de gérer à distance des ordinateurs ou des serveurs de manière sécurisée, en chiffrant toutes les communications pour protéger les données contre l'interception. 
+
+🎯 Objectif  : Utiliser les commandes Linux pour progresser 💻
+
+Tu dois  d'abord  lire le fichier "un_bon_debut", qui se trouve dans ton /home, juste où tu te trouves en ce moment, le dossier actuel
+##################################################################################################################################################

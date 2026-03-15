@@ -1,0 +1,7 @@
+############################################################################################
+T'es franchement bon!!! Le prochain fichier à trouver se trouve dans ton /home, mais... 
+il est un peu caché/masqué. Son nom est "fichier_secret", enfin... c'est presque ce nom de 
+fichier, à un petit détail près 😛
+P.S. Soit tu peux naviguer jusqu'à ton /home, ou alors tu peux simplement te déconnecter et 
+reconnecter à la machine pour revenir dans le dossier /home
+############################################################################################
