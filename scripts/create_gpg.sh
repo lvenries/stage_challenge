@@ -23,7 +23,7 @@ Bravo pour ta persévérance! 🚀🚀🚀
 EOF
 
 # Chiffrer le fichier avec gpg
-# Le mot de passe sera l'IP de svit-esx-winsrv.epfl.ch (128.178.15.227)
+# Le mot de passe sera l'IP de stage-challenge.epfl.ch (127.0.0.1)
 echo "127.0.0.1" | gpg --batch --yes --passphrase-fd 0 --symmetric --cipher-algo AES256 -o /home/stage/protection_mdp.gpg /tmp/protection_mdp.txt
 
 # Nettoyer
