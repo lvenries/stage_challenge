@@ -5,7 +5,7 @@ cat > /tmp/protection_mdp.txt << 'EOF'
 ############################################################################################
 🎊🎊🎊 FÉLICITATIONS 🎊🎊🎊
 
-Tu as réussi tous les défis!!! Tu es maintenant un vrai hacker Linux! 🐧💻
+Tu as réussi tous les défis!!! Tu es maintenant un(e) vrai(e) hacker / hackeuse Linux! 🐧💻
 
 Tu as appris à:
 ✅ Naviguer dans le système de fichiers (cd, ls, pwd)

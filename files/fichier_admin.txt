@@ -1,6 +1,6 @@
 ############################################################################################
 Bravo 🎉🎉🎉
-Vraiment inarrêtable!!! Tu as réussi à devenir admin de la machine!!!
+Vraiment inarrêtable!!! Tu as réussi à devenir admin(e) de la machine!!!
 Bon, si on passait aux choses sérieuses? 😜
 Une archive (fichier compressé) se trouve dans /opt, et porte le nom "mystere.tar.gz". 
 Ta mission suivante est de décompresser cette archive, en étant admin, et voir ce qui se 
