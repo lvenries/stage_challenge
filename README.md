@@ -30,8 +30,13 @@ docker build -t stage-challenge .
 ### 4. Run the container
 
 ```bash
-docker run -d -p 8080:80 -p 2222:22 --name stage-challenge stage-challenge
+docker run -d -p 80:80 -p 2222:22 --name stage-challenge stage-challenge
 ```
+
+### 5. Launch the challenge into n your browser
+
+[http://stage-decouverte.epfl.ch](http://stage-decouverte.epfl.ch)
+
 
 ## License
 
