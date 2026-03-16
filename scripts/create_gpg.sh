@@ -16,7 +16,7 @@ Tu as appris à:
 ✅ Éditer des fichiers (nano, vi, vim)
 ✅ Exécuter des scripts
 ✅ Utiliser ping pour résoudre des noms de domaine
-✅ Décrypter des fichiers avec gpg
+✅ Déchiffrer des fichiers avec gpg
 
 Bravo pour ta persévérance! 🚀🚀🚀
 ############################################################################################
