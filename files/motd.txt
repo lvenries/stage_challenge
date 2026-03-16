@@ -3,5 +3,5 @@ SSH (Secure Shell) est un protocole réseau qui permet de se connecter et de gé
 
 🎯 Objectif  : Utiliser les commandes Linux pour progresser 💻
 
-Tu dois  d'abord  lire le fichier "un_bon_debut", qui se trouve dans ton /home, juste où tu te trouves en ce moment, le dossier actuel
+Tu dois  d'abord  lire le fichier "un_bon_debut", qui se trouve dans ton home. En ce moment, tu te trouves dans "/home/stage"...
 ##################################################################################################################################################

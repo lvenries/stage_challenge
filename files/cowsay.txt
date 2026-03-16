@@ -1,6 +1,6 @@
 ############################################################################################
  ________________________________
-🐮🐮🐮 Continue comme ça petit hacker ! 🐮🐮🐮
+🐮🐮🐮 Continue comme ça petit(e) hacker / hackeuse! 🐮🐮🐮
  --------------------------------
         \   ^__^
          \  (oo)\_______
@@ -8,5 +8,5 @@
                 ||----w |
                 ||     ||
 Sauf erreur de ma part, on a pas encore édité un fichier pas vrai? Alors en avant!!! 
-Trouve comment modifier le fichier script_a_modifier qui se trouve dans ton /home 
+Trouve comment modifier le fichier script_a_modifier qui se trouve dans ton home.
 ############################################################################################
