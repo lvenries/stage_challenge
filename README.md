@@ -19,7 +19,7 @@ This project creates a containerized Linux environment with:
 ### 2. Add host
 
 ```bash
-sudo echo "127.0.0.1 stage-decouverte.epfl.ch" >> /etc/hosts
+sudo echo "127.0.0.1 stage-challenge.epfl.ch" >> /etc/hosts
 ```
 ### 3. Build the docker image
 
@@ -35,7 +35,7 @@ docker run -d -p 80:80 -p 2222:22 --name stage-challenge stage-challenge
 
 ### 5. Launch the challenge into n your browser
 
-[http://stage-decouverte.epfl.ch](http://stage-decouverte.epfl.ch)
+[http://stage-challenge.epfl.ch](http://stage-challenge.epfl.ch)
 
 
 ## License

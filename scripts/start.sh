@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "127.0.0.1 stage-decouverte.epfl.ch" >> /etc/hosts
+echo "127.0.0.1 stage-challenge.epfl.ch" >> /etc/hosts
 
 service ssh start
 

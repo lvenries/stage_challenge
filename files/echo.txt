@@ -1,7 +1,7 @@
 ############################################################################################
 Yeah! 🥳🥳🥳
 On approche du but! Tu vas devoir lancer la commande suivante:
-ping stage-decouverte.epfl.ch
+ping stage-challenge.epfl.ch
 Cela va te retourner une adresse IP. Cette adresse IP sera le mot de passe pour ouvrir le 
 fichier final. Ce dernier fichier se trouve dans ton /home, et se nomme protection_mdp.gpg
 On a beaucoup utilisé cat jusque là, cette fois, utilise gpg à la place, rentre le mot de 
