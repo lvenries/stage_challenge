@@ -16,7 +16,9 @@ This project creates a containerized Linux environment with:
 
 ### 1. Clone the project
 
-For more informations, follow the [GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+```bash
+git clone https://github.com/lvenries/stage_challenge.
+```
 
 ### 2. Add host
 
@@ -33,7 +35,7 @@ docker build -t stage-challenge .
 ### 4. Run the container
 
 ```bash
-docker run -d -p 80:80 -p 2222:22 --name stage-challenge stage-challenge
+docker run -d -p 80:80 -p 2222:22 --name stage-challenge stage-challenge --restart
 ```
 
 ### 5. Launch the challenge into your browser
